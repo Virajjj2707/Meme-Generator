@@ -2,7 +2,10 @@
 
 function App() {
   return (
-<h11>Hello World</h11>
+    <>
+<h1>Hello World</h1>
+<h2>Meme generator</h2>
+</>
   );
 }
 
